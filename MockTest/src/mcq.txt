@@ -1,0 +1,20 @@
+1.A
+2.C
+3.C
+4.B
+5.B
+6.B
+7.D
+8.B) void
+9.B) 3.0
+10.B) stack
+11.D) 6
+12.D) Zero fill right shift
+13.B) use of pointers
+14.) protected
+15.B) Compilation Error
+16.B) private
+17.A) the condition to end the recursion
+18.A) 5 4 3 2 1
+19.A) /* comment */
+20.A) final
